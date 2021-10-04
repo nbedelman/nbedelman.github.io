@@ -22,8 +22,9 @@ title: Nathaniel B Edelman, PhD
 email: nathaniel.edelman@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Interested in interactions between populations, and how they can effect genome evolution and adaptation? Me too! Let's talk
+domain: nbedelman.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://nateedelman.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: natebedelman
 github_username:  nbedelman
 
